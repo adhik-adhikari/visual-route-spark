@@ -1,5 +1,7 @@
 # Visual Route Spark - Pathfinding Visualizer
 
+🔗 **Live Demo**: [https://adhik-adhikari.github.io/visual-route-spark](https://adhik-adhikari.github.io/visual-route-spark)
+
 An interactive web application for visualizing pathfinding algorithms built with React, TypeScript, and Vite.
 
 ## Features
